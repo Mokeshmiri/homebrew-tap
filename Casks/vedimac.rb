@@ -1,6 +1,6 @@
 cask "vedimac" do
-  version "1.0.4"
-  sha256 "935583ba6656753165272f41c6e070c742afea7ae5a99084a45c9e53a56bd8d4"
+  version "1.0.6"
+  sha256 "d60e9ae8e3e3cee65d115ebfdb857a905da1cc7af7a7a63290b7de7416080501"
 
   url "https://github.com/Mokeshmiri/Vedimac/releases/download/v#{version}/Vedimac-#{version}.zip"
   name "Vedimac"
